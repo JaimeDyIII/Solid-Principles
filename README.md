@@ -53,7 +53,6 @@ public class OrderTest {
   }
 }
 
-
-[CCL_222-18_2BSCS-2_Dy_A6.pdf](https://github.com/JaimeDyIII/Solid-Principles/files/15051650/CCL_222-18_2BSCS-2_Dy_A6.pdf)
+Solution UML Class Diagram
 ![image](https://github.com/JaimeDyIII/Solid-Principles/assets/152839721/ad79863d-ed7d-42cd-b6d1-00b643c9d009)
 
